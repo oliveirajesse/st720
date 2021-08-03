@@ -1,6 +1,7 @@
 <?php
 define( 'ENVIRONMENT' , 'installation' );
 ini_set("memory_limit", "1024M");
+
 /*
  * ERROR REPORTING
  */
